@@ -21,3 +21,5 @@ export function buildApp(options: FastifyServerOptions = {}) {
 
   return app;
 }
+
+//Assume I edited something here, and CI/CD pipeline should start automatically after I pushed this edit to GitHub.
